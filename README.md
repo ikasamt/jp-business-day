@@ -1,7 +1,7 @@
 ### Overview
 
 Tiny script to print the next 30 business-days in Japan to stdout. 
-Saturdays, Sundays, Holidays print as blank.
+Saturdays, Sundays, Holidays print as a blank line.
 
 
 ### Usage
